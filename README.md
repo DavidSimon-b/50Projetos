@@ -1,2 +1,2 @@
 # 50Projetos
-50 Projetos para principiantes em FrontEnd
+50 Projects to FrontEnd beginners
